@@ -2,8 +2,10 @@ name: Serene
 type: theme
 description: 'A serene theme that offers extra serenity.'
 core_version_requirement: ^8 || ^9
+# defining libraries makes them available to the drupal theme  instance
 libraries:
   - serene/global-styling
+  - serene/global-scripts
 base theme: stable
 regions:
   header: 'Header'

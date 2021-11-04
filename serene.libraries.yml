@@ -1,0 +1,13 @@
+# MOAR: https://www.drupal.org/node/2216195
+# serene.libraries.yml
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      l1brary/css/init.css: {}
+      l1brary/css/the.css: {}
+      l1brary/css/sandbox.css: {}
+global-scripts:
+  version: 1.x
+  js: 
+    l1brary/js/serenity.js: {} 
