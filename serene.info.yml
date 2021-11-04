@@ -1,0 +1,12 @@
+name: Serene
+type: theme
+description: 'A serene theme that offers extra serenity.'
+core_version_requirement: ^8 || ^9
+libraries:
+  - serene/global-styling
+base theme: stable
+regions:
+  header: 'Header'
+  content: 'Content'
+  set_aside: 'Set Aside'
+  footer: 'Footer'
