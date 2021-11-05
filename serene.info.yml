@@ -6,7 +6,7 @@ core_version_requirement: ^8 || ^9
 libraries:
   - serene/global-styling
   - serene/global-scripts
-base theme: stable
+base theme: stark
 regions:
   header: 'Header'
   content: 'Content'
